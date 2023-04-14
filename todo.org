@@ -1,0 +1,11 @@
+#+FILETAGS: 577
+
+* today
+** TODO Hw#2
+   SCHEDULED: <2023-04-12 Wed>
+   
+* inbox
+
+* scheduled
+
+* completed
